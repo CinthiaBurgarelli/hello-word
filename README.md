@@ -1,6 +1,5 @@
 # hello-word
-Introdução ao github
+Introdução ao Github
 
-Boa noite devs, me chamo Cinthia e tenho 19 anos
-Sou iniciante em programação, e a linguagem que mais 
-Me chama a atenção é Python.
+Me chamo Cinthia, tenho 19 anos e estou
+inciando em programação.
